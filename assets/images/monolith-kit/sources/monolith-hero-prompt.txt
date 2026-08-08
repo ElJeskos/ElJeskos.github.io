@@ -1,0 +1,11 @@
+Use case: photorealistic-natural
+Asset type: responsive website hero image for an ultra-premium bespoke furniture studio
+Primary request: Create an ultra-minimal sculptural bespoke kitchen conceived as one calm architectural monolith. The main island is carved from pale bone limestone with precise, substantial geometry. Behind it, a floor-to-ceiling smoked walnut cabinetry wall reads as one continuous plane with espresso-colored shadow gaps, joined by a restrained panel of clear gray glass and one tiny bronze accent.
+Scene/backdrop: A quiet, expansive contemporary residence where cabinetry and architecture merge. The space is complete but almost free of decoration, with only one low sculptural object if needed for scale.
+Style/medium: High-end cinematic architectural photography, Italian-modern sensibility without reproducing or referencing any brand, showroom, designer, or existing project. Physically plausible, restrained, tactile, and severe rather than glossy.
+Composition/framing: Wide landscape hero composition. Preserve the complete monolithic island, its stone volume, and the central walnut cabinetry plane in the center third so a centered 9:16 mobile crop remains compelling and legible. Use strong horizontal geometry and a calm straight-on to very slight three-quarter camera position. No fisheye or dramatic lens distortion.
+Lighting/mood: Soft lateral daylight with long, subtle tonal transitions, hushed cinematic stillness, deep espresso shadows that retain material detail.
+Color palette: Bone limestone, smoked walnut, espresso shadow gaps, clear gray glass, one tiny bronze accent.
+Materials/textures: Honed limestone with fine natural pores, deeply grained smoked walnut veneer, precision dark reveals, low-reflective gray glass, softly patinated bronze.
+Constraints: No people. No text, logo, signage, watermark, trademark, labels, appliances with visible branding, or recognizable branded furniture. Maintain coherent cabinet joints, believable stone thickness, and precise perspective. Keep the island and cabinetry safe in centered desktop and 9:16 mobile crops.
+Avoid: generic luxury staging, marble veining overload, decorative clutter, gold glamour, theatrical colored lighting, cold CGI surfaces, warped geometry, duplicate objects, open cabinet doors, busy scenery, imitation of a named brand or specific photograph.

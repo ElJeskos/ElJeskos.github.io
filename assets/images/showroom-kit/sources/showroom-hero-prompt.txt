@@ -1,0 +1,12 @@
+Use case: photorealistic-natural
+Asset type: responsive website hero image for a bespoke furniture showroom, intended for both wide desktop and centered 9:16 mobile crops
+Primary request: Create an original bright, polished, approachable urban apartment showroom focused on practical bespoke storage and everyday organization.
+Scene/backdrop: A realistic city-apartment interior showroom with warm white plaster walls, a pale mineral-gray floor, soft daylight from a large side window, and a calm residential scale.
+Subject: A central floor-to-ceiling birch-veneer wardrobe and cabinetry composition with one full-height door and several drawers open, clearly revealing organized shelves, pull-out baskets, a compact coat rail, shoe storage, and tidy household compartments. Include a slim built-in bench and a low sideboard that make the layout feel useful rather than decorative.
+Style/medium: Ultra-realistic contemporary architectural interior photography with natural texture, restrained retail polish, and believable custom joinery; welcoming and practical, not a sterile catalog render.
+Composition/framing: Landscape master composition about 3:2. Cluster the primary birch cabinetry, open storage, and bench within the central 45% so all remain recognizable in a centered 9:16 crop. Camera at standing eye level, straight verticals, generous bright breathing room at the outer edges, clear circulation path, uncluttered foreground.
+Lighting/mood: Soft diffused morning daylight with warm interior bounce, even enough to read cabinet organization, optimistic and calm without overexposure.
+Color palette: Pale birch veneer, warm white, mineral gray, with only two small restrained color accents: petrol blue upholstery or panel detail and tomato red on a small removable object.
+Materials/textures: Fine-grain birch veneer, matte warm-white lacquer, brushed metal fittings, woven petrol-blue upholstery, honed mineral floor; physically plausible hinges, rails, shelves, and reflections.
+Constraints: No people. No written labels. No logos, brand marks, product trademarks, watermark, signage, price tags, floating UI, or decorative typography. Do not imitate any named furniture company or Russian furniture brand. Make the cabinet organization functional and credible. Preserve clean central crop safety for wide and portrait layouts.
+Avoid: Generic luxury styling, excessive décor, marble, gold, showroom banners, store signs, visual clutter, distorted cabinetry, impossible doors or hardware, CGI gloss, text, logos, watermarks.

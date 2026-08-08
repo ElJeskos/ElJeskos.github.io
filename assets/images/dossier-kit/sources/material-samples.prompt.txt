@@ -1,0 +1,14 @@
+Use case: photorealistic-natural
+Asset type: editorial material-sample photograph for a premium custom-furniture website
+Primary request: Create one coherent top-down photographed material card showing exactly three real physical samples: natural warm oak veneer, warm gray stone, and smoked dark glass.
+Input image: the supplied StarWood warm oak kitchen hero is a style and material-color reference only; do not reproduce the kitchen scene or composition.
+Scene/backdrop: tactile off-white architectural paper with subtle fibers and faint drafting texture, clean studio tabletop, no architectural drawings or readable marks.
+Subject: three separate substantial rectangular material swatches arranged as an intentional architectural specification set; oak veneer with authentic straight grain and warm honey-brown tone, honed warm-gray limestone or quartz with restrained mineral movement, translucent smoked charcoal glass with realistic edge thickness and soft reflection. Include three tiny blank unprinted specimen tags near the swatches.
+Style/medium: premium photorealistic editorial product photography, real materials, quiet European interiors-materials mood, high-end but tactile.
+Composition/framing: strict top-down view, landscape 3:2 crop, asymmetrical but balanced arrangement with generous off-white negative space around the set, no hands and no tools, all three samples fully inside frame.
+Lighting/mood: diffused natural window light from upper left, soft realistic shadows, warm neutral color grade matching the reference kitchen.
+Color palette: warm oak, greige stone, smoke-black glass, ivory paper.
+Materials/textures: visible natural wood grain and veneer edge, fine honed stone pores, physically credible smoked glass thickness and transparency, fibrous uncoated paper.
+Text: none; all tags completely blank.
+Constraints: exactly three material samples; no readable copy; no branding; no logo; no watermark; no extra swatches; no fabric; no metal; no plants; no writing instruments; no catalogs; no people.
+Avoid: CGI look, flat illustration, floating objects, glossy white marble, cool blue lighting, overly dark image, clutter, decorative props, distorted glass, labels with pseudo-text.

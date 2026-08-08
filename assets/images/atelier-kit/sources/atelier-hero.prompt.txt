@@ -1,0 +1,12 @@
+Use case: photorealistic-natural
+Asset type: full-bleed website hero image for a premium custom-furniture "Material Atelier" concept
+Primary request: a bright editorial interior photograph of a bespoke kitchen that also feels like a working material-sampling atelier
+Scene/backdrop: believable premium Russian custom-furniture showroom or refined urban home; warm ivory lime-plaster walls; natural oak cabinetry and island; a small, carefully arranged set of real material samples such as oak veneer, warm ivory stone, muted moss woven textile, and one subtle terracotta ceramic detail
+Subject: the custom kitchen and tactile material selection atmosphere; no people
+Style/medium: highly photorealistic architectural editorial photography, restrained and contemporary, authentic joinery and real-world material texture, not a CGI render
+Composition/framing: wide landscape establishing view suitable for a full-bleed desktop hero; preserve one calm, relatively uncluttered area for overlay copy; keep the central cabinetry and material story strong enough to survive a tall mobile crop; coherent perspective, 28–35 mm architectural lens, eye-level camera
+Lighting/mood: abundant soft natural daylight, calm morning atmosphere, airy but warm, gentle realistic shadows, premium without looking ostentatious
+Color palette: natural oak, warm ivory, muted moss green, tiny restrained terracotta accent, low-saturation neutrals
+Materials/textures: visible oak grain, matte plaster variation, honed pale stone, woven textile, subtly handmade ceramic
+Constraints: no people, no logos, no branding, no embedded text, no UI, no watermark; no readable packaging; no exaggerated luxury; no impossible kitchen geometry; no excessive decor; no fisheye distortion
+Avoid: dark moody lighting, glossy black kitchen, generic Scandinavian catalog styling, artificial showroom perfection, overprocessed HDR, heavy orange grading, clutter, fake depth of field

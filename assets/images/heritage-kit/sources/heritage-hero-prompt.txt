@@ -1,0 +1,11 @@
+Use case: photorealistic-natural
+Asset type: responsive website hero image for a bespoke furniture and cabinetry studio
+Primary request: Create an inhabited, soulful but contemporary bespoke cabinetry interior with deep bottle-green painted Shaker-style cabinets, warm aged brass hardware, softly irregular chalk plaster walls, and worn natural oak. Include one restrained oxblood textile accent as a small visual counterpoint.
+Scene/backdrop: A believable residential kitchen and adjoining cabinetry wall in an older European townhouse, carefully renovated and genuinely lived in but uncluttered. The cabinetry is the unmistakable subject.
+Style/medium: High-end editorial architectural photography, physically plausible, natural material texture, sophisticated but not glossy, not a showroom render.
+Composition/framing: Wide landscape composition suitable for a desktop hero. Keep the strongest cabinetry, work surface, and brass details concentrated through the center third so a centered 9:16 mobile crop remains complete and compelling. Allow quieter architecture toward the far left and right. Straight, calm camera position around eye level, subtle depth, no extreme wide-angle distortion.
+Lighting/mood: Soft overcast daylight entering from an unseen side window, gentle shadow falloff, warm interior bounce, contemplative and welcoming.
+Color palette: Deep bottle green, warm chalk, aged brass, worn oak, one small oxblood accent.
+Materials/textures: Hand-painted timber with slight brush texture, unlacquered aged brass, matte chalk plaster, honest worn oak grain, restrained stone worktop.
+Constraints: No people. No text, logo, signage, trademark, watermark, or legible labels. Do not imitate or reproduce any named brand, real project, or existing photograph. Maintain photorealistic joinery proportions and coherent cabinet geometry. Keep mobile-crop-safe central composition.
+Avoid: generic luxury showroom styling, sterile minimalism, oversaturated colors, excessive props, visible brand products, impossible reflections, warped doors, duplicate hardware, low-resolution texture, CGI look.

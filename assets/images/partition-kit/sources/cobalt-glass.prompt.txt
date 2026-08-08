@@ -1,0 +1,12 @@
+Use case: stylized-concept
+Asset type: seamless-looking raster background texture for a premium made-to-order furniture website
+Primary request: create a restrained deep cobalt-blue lacquered architectural glass surface viewed perfectly front-on, filling the entire frame edge to edge
+Scene/backdrop: no scene and no backdrop, only the material surface
+Subject: dense dark cobalt back-painted glass with subtle lacquer depth, minute surface waviness, and almost imperceptible micro-grain
+Style/medium: photorealistic macro material scan, premium architectural sample, understated and realistic
+Composition/framing: orthographic front view, uniform scale across the full square tile, no horizon, no edges, no frame, no perspective, seamless-looking boundaries
+Lighting/mood: broad even diffuse studio illumination, extremely soft controlled sheen, no directional shadow, no hotspot, no vignette, very low contrast
+Color palette: deep cobalt, Prussian blue, midnight blue, restrained near-black navy
+Materials/textures: lacquered glass with quiet tactile micro-variation visible only at close range, calm enough behind off-white text
+Constraints: mostly uniform; full-bleed tile; no objects; no text; no logo; no UI; no border; no seam; no pattern motif; no bright specular streaks; no pronounced depth; no watermark
+Avoid: gradients, radial lighting, lens flare, glossy product reflections, water, sky, denim, marble veins, fabric, decorative pattern, high contrast

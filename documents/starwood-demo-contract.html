@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>StarWood — демонстрационный договор</title>
+    <style>
+      :root {
+        color: #231f1b;
+        background: #e8e2d9;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+
+      * { box-sizing: border-box; }
+      body { margin: 0; padding: 36px 18px; }
+      main { width: min(860px, 100%); margin: 0 auto; padding: 54px 62px; background: #fffdf9; box-shadow: 0 20px 60px rgba(35, 31, 27, 0.15); }
+      header { display: grid; grid-template-columns: 1fr auto; gap: 24px; padding-bottom: 28px; border-bottom: 2px solid #342c25; }
+      h1 { max-width: 22ch; margin: 14px 0 0; font-family: Georgia, serif; font-size: 34px; font-weight: 400; line-height: 1.08; }
+      h2 { margin: 0; font-size: 15px; line-height: 1.35; }
+      p { margin: 0; line-height: 1.62; }
+      .brand { width: 167px; height: auto; }
+      .meta { text-align: right; }
+      .meta span { display: block; color: #756b63; font-size: 12px; line-height: 1.6; text-transform: uppercase; }
+      .notice { margin: 28px 0; padding: 18px 20px; border-top: 1px solid #e59a13; background: #f4eee5; font-size: 13px; }
+      .lead { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin: 30px 0 18px; font-size: 13px; }
+      .lead div { padding-bottom: 10px; border-bottom: 1px solid #a69b90; }
+      ol { margin: 0; padding: 0; list-style: none; counter-reset: clause; }
+      ol > li { display: grid; grid-template-columns: 180px 1fr; gap: 28px; padding: 23px 0; border-top: 1px solid #c1b7ad; counter-increment: clause; break-inside: avoid; }
+      ol > li h2::before { content: counter(clause, decimal-leading-zero) " · "; color: #9a6b33; }
+      ol > li p { color: #564e47; font-size: 13px; }
+      .fields { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-top: 12px; }
+      .field { min-height: 52px; padding: 10px; border: 1px solid #c1b7ad; color: #756b63; font-size: 12px; }
+      .appendices { margin-top: 28px; padding: 22px; background: #312a24; color: #fff; break-inside: avoid; }
+      .appendices h2 { margin-bottom: 13px; }
+      .appendices ul { margin: 0; padding-left: 18px; color: #e0d7cf; font-size: 13px; line-height: 1.8; }
+      .signatures { display: grid; grid-template-columns: 1fr 1fr; gap: 50px; margin-top: 44px; break-inside: avoid; }
+      .signatures div { min-height: 90px; padding-top: 12px; border-top: 1px solid #342c25; font-size: 12px; }
+      footer { margin-top: 32px; padding-top: 18px; border-top: 1px solid #c1b7ad; color: #756b63; font-size: 12px; line-height: 1.6; }
+
+      @media (max-width: 680px) {
+        body { padding: 0; }
+        main { padding: 32px 20px; box-shadow: none; }
+        header, .lead, ol > li, .signatures { grid-template-columns: 1fr; }
+        .meta { text-align: left; }
+        .fields { grid-template-columns: 1fr; }
+      }
+
+      @media print {
+        @page { size: A4; margin: 15mm; }
+        :root, body { background: #fff; }
+        body { padding: 0; }
+        main { width: 100%; padding: 0; box-shadow: none; }
+        header { padding-top: 0; }
+        .notice { print-color-adjust: exact; }
+        .appendices { print-color-adjust: exact; }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <div>
+          <img class="brand" src="/assets/brand/starwood-logo.png" alt="StarWood — Мебель Интерьер Декор" width="167" height="45" />
+          <h1>Демонстрационный договор на изготовление мебели № SW-DEMO</h1>
+        </div>
+        <div class="meta">
+          <span>Версия прототипа</span>
+          <span>08 августа 2026 года</span>
+          <span>Мебель · Интерьер · Декор</span>
+        </div>
+      </header>
+
+      <p class="notice"><strong>Обезличенный демонстрационный образец.</strong> Документ создан для показа структуры и функционала сайта, не является публичной офертой или финальной юридической редакцией и требует проверки перед использованием.</p>
+
+      <div class="lead">
+        <div>Город: __________________________</div>
+        <div>Дата: «___» __________ 20___ года</div>
+        <div>Исполнитель: ____________________</div>
+        <div>Заказчик: _______________________</div>
+      </div>
+
+      <ol>
+        <li>
+          <h2>Предмет договора</h2>
+          <p>Исполнитель обязуется изготовить и передать заказчику мебель с индивидуально согласованными свойствами, а заказчик обязуется принять результат и оплатить его. Состав, размеры, материалы, цвет, фурнитура и комплектация фиксируются в спецификации и эскизе, которые являются неотъемлемыми приложениями.</p>
+        </li>
+        <li>
+          <h2>Стоимость и порядок расчётов</h2>
+          <div>
+            <p>Цена заказа, размер предоплаты и окончательного платежа заполняются после утверждения проекта. Доставка, установка и дополнительные работы отражаются отдельно, если они не включены в спецификацию.</p>
+            <div class="fields">
+              <div class="field">Цена заказа<br />________________ ₽</div>
+              <div class="field">Предоплата<br />________________ ₽</div>
+              <div class="field">Остаток<br />________________ ₽</div>
+            </div>
+          </div>
+        </li>
+        <li>
+          <h2>Замер и предварительный проект</h2>
+          <p>В этой демонстрационной редакции используется подтверждённое заказчиком условие для сайта: выезд на замер стоит от 3 000 до 5 000 рублей в зависимости от удалённости по городу. Если заказчик заключает договор на изготовление мебели, сумма замера засчитывается в стоимость заказа.</p>
+        </li>
+        <li>
+          <h2>Проект, изменения и согласование</h2>
+          <p>Эскиз и спецификация закрепляют параметры заказа. Изменения размеров, конструкции, материалов или комплектации после согласования оформляются письменно, могут повлиять на стоимость и срок и начинают действовать после подтверждения обеими сторонами.</p>
+        </li>
+        <li>
+          <h2>Производство и сроки</h2>
+          <p>Дата запуска, срок изготовления и дата готовности заполняются для конкретного заказа после утверждения проекта, материалов и графика оплаты. Противоречивые сроки из рабочих материалов намеренно не перенесены в демонстрационный образец.</p>
+        </li>
+        <li>
+          <h2>Доставка и установка</h2>
+          <p>Условия доставки и монтажа согласуются заранее и фиксируются в спецификации или отдельном соглашении. Дополнительные работы выполняются только после согласования состава и стоимости и отражаются в соответствующем акте.</p>
+        </li>
+        <li>
+          <h2>Подготовка помещения</h2>
+          <p>До установки заказчик обеспечивает доступ к рабочей зоне, освобождает помещение и сообщает о коммуникациях и особенностях стен, пола и потолка, которые могут повлиять на монтаж. Изменения помещения после замера необходимо заранее согласовать с исполнителем.</p>
+        </li>
+        <li>
+          <h2>Передача и приёмка</h2>
+          <p>После завершения установки стороны осматривают результат и подписывают акт. Если обнаружены замечания, они фиксируются в акте с согласованным порядком устранения. Скрытые недостатки рассматриваются в пределах применимых условий договора и законодательства.</p>
+        </li>
+        <li>
+          <h2>Ответственность сторон</h2>
+          <p>Каждая сторона отвечает за исполнение принятых обязательств. Ответственность, порядок расторжения, неустойки и обстоятельства непреодолимой силы должны быть проверены юристом и утверждены в финальной версии для конкретной сделки.</p>
+        </li>
+        <li>
+          <h2>Гарантия и сервис</h2>
+          <p>Гарантийный срок: ______ месяцев. Поле намеренно оставлено незаполненным, поскольку в переданных материалах указаны разные сроки. Финальная редакция должна определить срок, покрытие, исключения и порядок обращения за сервисом.</p>
+        </li>
+        <li>
+          <h2>Электронная переписка</h2>
+          <p>Стороны могут признать юридически значимой переписку по согласованным адресам электронной почты и номерам в мессенджерах. Конкретные каналы и реквизиты заполняются в подписываемой редакции договора.</p>
+        </li>
+        <li>
+          <h2>Персональные данные и реквизиты</h2>
+          <p>В публичном демонстрационном образце персональные данные отсутствуют. Полные реквизиты сторон и согласие на обработку данных должны размещаться только в защищённой финальной версии и обрабатываться по применимым требованиям.</p>
+        </li>
+      </ol>
+
+      <section class="appendices">
+        <h2>Приложения к финальной версии</h2>
+        <ul>
+          <li>Спецификация с материалами, фурнитурой, размерами и стоимостью.</li>
+          <li>Согласованный эскиз или дизайн-проект.</li>
+          <li>График оплаты, изготовления, доставки и монтажа.</li>
+          <li>Акт приёмки и, при необходимости, акт дополнительных работ.</li>
+          <li>Прайс дополнительных работ подключается только после подтверждения актуальности.</li>
+        </ul>
+      </section>
+
+      <section class="signatures">
+        <div>Исполнитель<br /><br />________________ / __________________</div>
+        <div>Заказчик<br /><br />________________ / __________________</div>
+      </section>
+
+      <footer>Основа документа — приложенный заказчиком рабочий договор на изготовление мебели. Для прототипа удалены персональные данные, банковские и идентификационные реквизиты, а неподтверждённые условия заменены полями или пояснениями.</footer>
+    </main>
+  </body>
+</html>
