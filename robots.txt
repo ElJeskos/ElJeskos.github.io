@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eljeskos.github.io/sitemap.xml
