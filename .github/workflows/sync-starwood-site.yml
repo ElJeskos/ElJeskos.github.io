@@ -1,0 +1,72 @@
+name: Sync StarWood site
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/sync-starwood-site.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-starwood-site
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the published site
+        uses: actions/checkout@v4
+        with:
+          path: published
+
+      - name: Check out the StarWood source
+        uses: actions/checkout@v4
+        with:
+          repository: ElJeskos/starwood-site
+          ref: main
+          path: source
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: source/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+        working-directory: source
+
+      - name: Build the site
+        run: npm run build
+        working-directory: source
+
+      - name: Replace the published files
+        run: >-
+          rsync -a --delete
+          --exclude='.git/'
+          --exclude='.github/'
+          source/dist/client/
+          published/
+
+      - name: Publish updates
+        working-directory: published
+        run: |
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "The published site is already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Sync StarWood site from source"
+          git push
